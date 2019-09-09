@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>django on myarik</title>
+    <link>http://myarik.com/tags/django/</link>
+    <description>Recent content in django on myarik</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 May 2017 19:51:43 +0200</lastBuildDate>
+    
+	<atom:link href="http://myarik.com/tags/django/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Поиск в Django REST Framework с помощью Elasticsearch</title>
+      <link>http://myarik.com/posts/poisk-v-django-rest-framework-s-pomoschyu-elasticsearch/</link>
+      <pubDate>Mon, 01 May 2017 19:51:43 +0200</pubDate>
+      
+      <guid>http://myarik.com/posts/poisk-v-django-rest-framework-s-pomoschyu-elasticsearch/</guid>
+      <description>Пользователи ищут товары в интернет-магазине, ищут стати, поиск это неотъемлемый компонент сайта. Быстрый и гибкий поиск сложно реализовать средствами реляционных баз данных. Для таких задач используют поисковые движки, один из которых Elasticsearch. Elasticsearch хорошо документирован и доступен из коробки на AWS.
+Для работы с elasticsearch используется библиотека elasticsearch-py или elasticsearch-dsl-py. elasticsearch-dsl-py это надстройка над elasticsearch-py, она проста в использовании и поддерживает elasticsearch версии 5.x. На базе этой библиотеки была создана библиотеку django-rest-elasticsearch, которая основана на идеологии существующего поиска в Django REST Framework.</description>
+    </item>
+    
+  </channel>
+</rss>
