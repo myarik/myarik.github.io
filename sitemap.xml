@@ -3,67 +3,67 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://myarik.com/about/</loc>
+    <loc>/about/</loc>
     <lastmod>2019-09-06T17:15:11+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://myarik.com/</loc>
+    <loc>/</loc>
     <lastmod>2019-09-06T17:15:11+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://myarik.com/talks/</loc>
+    <loc>/talks/</loc>
     <lastmod>2018-02-23T19:44:18+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://myarik.com/talks/django_orm_tips/</loc>
+    <loc>/talks/django_orm_tips/</loc>
     <lastmod>2018-02-23T19:44:18+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://myarik.com/tags/django/</loc>
+    <loc>/tags/django/</loc>
     <lastmod>2017-05-01T19:51:43+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://myarik.com/tags/django-rest-framework/</loc>
+    <loc>/tags/django-rest-framework/</loc>
     <lastmod>2017-05-01T19:51:43+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://myarik.com/tags/elasticsearch/</loc>
+    <loc>/tags/elasticsearch/</loc>
     <lastmod>2017-05-01T19:51:43+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://myarik.com/posts/</loc>
+    <loc>/posts/</loc>
     <lastmod>2017-05-01T19:51:43+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://myarik.com/tags/python/</loc>
+    <loc>/tags/python/</loc>
     <lastmod>2017-05-01T19:51:43+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://myarik.com/tags/</loc>
+    <loc>/tags/</loc>
     <lastmod>2017-05-01T19:51:43+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://myarik.com/posts/poisk-v-django-rest-framework-s-pomoschyu-elasticsearch/</loc>
+    <loc>/posts/poisk-v-django-rest-framework-s-pomoschyu-elasticsearch/</loc>
     <lastmod>2017-05-01T19:51:43+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://myarik.com/talks/drf_and_elasticsearch/</loc>
+    <loc>/talks/drf_and_elasticsearch/</loc>
     <lastmod>2017-04-25T19:29:50+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://myarik.com/categories/</loc>
+    <loc>/categories/</loc>
   </url>
   
 </urlset>

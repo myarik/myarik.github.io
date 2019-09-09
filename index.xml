@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>myarik</title>
-    <link>http://myarik.com/</link>
+    <link>/</link>
     <description>Recent content on myarik</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 06 Sep 2019 17:15:11 +0200</lastBuildDate>
     
-	<atom:link href="http://myarik.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About</title>
-      <link>http://myarik.com/about/</link>
+      <link>/about/</link>
       <pubDate>Fri, 06 Sep 2019 17:15:11 +0200</pubDate>
       
-      <guid>http://myarik.com/about/</guid>
+      <guid>/about/</guid>
       <description>I am Yaroslav Muravskyi. Technology is a passion of mine, and I enjoy learning new things and challenging myself. I love building products that solve real, human problems.
 Work I Technical Leader &amp;amp; Software engineer. The things, I like about my job is:
  Work on designing functional technology solutions Work on processes in my team Growing as a technical leader &amp;amp; engineer  Stack I work with python, golang, and javascript.</description>
@@ -24,10 +24,10 @@ Work I Technical Leader &amp;amp; Software engineer. The things, I like about my
     
     <item>
       <title>The effective use of Django ORM</title>
-      <link>http://myarik.com/talks/django_orm_tips/</link>
+      <link>/talks/django_orm_tips/</link>
       <pubDate>Fri, 23 Feb 2018 19:44:18 +0200</pubDate>
       
-      <guid>http://myarik.com/talks/django_orm_tips/</guid>
+      <guid>/talks/django_orm_tips/</guid>
       <description>This talk describes how to use Django ORM effectively. Main topics: - Django ORM Mistakes
 - Performance Problems in the Django ORM - Database concurrency in Django the right way
  Slides: SlideShare</description>
@@ -35,20 +35,20 @@ Work I Technical Leader &amp;amp; Software engineer. The things, I like about my
     
     <item>
       <title>Поиск в Django REST Framework с помощью Elasticsearch</title>
-      <link>http://myarik.com/posts/poisk-v-django-rest-framework-s-pomoschyu-elasticsearch/</link>
+      <link>/posts/poisk-v-django-rest-framework-s-pomoschyu-elasticsearch/</link>
       <pubDate>Mon, 01 May 2017 19:51:43 +0200</pubDate>
       
-      <guid>http://myarik.com/posts/poisk-v-django-rest-framework-s-pomoschyu-elasticsearch/</guid>
+      <guid>/posts/poisk-v-django-rest-framework-s-pomoschyu-elasticsearch/</guid>
       <description>Пользователи ищут товары в интернет-магазине, ищут стати, поиск это неотъемлемый компонент сайта. Быстрый и гибкий поиск сложно реализовать средствами реляционных баз данных. Для таких задач используют поисковые движки, один из которых Elasticsearch. Elasticsearch хорошо документирован и доступен из коробки на AWS.
 Для работы с elasticsearch используется библиотека elasticsearch-py или elasticsearch-dsl-py. elasticsearch-dsl-py это надстройка над elasticsearch-py, она проста в использовании и поддерживает elasticsearch версии 5.x. На базе этой библиотеки была создана библиотеку django-rest-elasticsearch, которая основана на идеологии существующего поиска в Django REST Framework.</description>
     </item>
     
     <item>
       <title>How to integrate Django REST Framework and Elasticsearch</title>
-      <link>http://myarik.com/talks/drf_and_elasticsearch/</link>
+      <link>/talks/drf_and_elasticsearch/</link>
       <pubDate>Tue, 25 Apr 2017 19:29:50 +0200</pubDate>
       
-      <guid>http://myarik.com/talks/drf_and_elasticsearch/</guid>
+      <guid>/talks/drf_and_elasticsearch/</guid>
       <description>This talk describes how to use the library django-rest-elasticsearch for integrating Elasticsearch with Django.
 Slides: SlideShare</description>
     </item>

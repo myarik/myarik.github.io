@@ -2,48 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on myarik</title>
-    <link>http://myarik.com/tags/</link>
+    <link>/tags/</link>
     <description>Recent content in Tags on myarik</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 01 May 2017 19:51:43 +0200</lastBuildDate>
     
-	<atom:link href="http://myarik.com/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>django</title>
-      <link>http://myarik.com/tags/django/</link>
+      <link>/tags/django/</link>
       <pubDate>Mon, 01 May 2017 19:51:43 +0200</pubDate>
       
-      <guid>http://myarik.com/tags/django/</guid>
+      <guid>/tags/django/</guid>
       <description></description>
     </item>
     
     <item>
       <title>django rest framework</title>
-      <link>http://myarik.com/tags/django-rest-framework/</link>
+      <link>/tags/django-rest-framework/</link>
       <pubDate>Mon, 01 May 2017 19:51:43 +0200</pubDate>
       
-      <guid>http://myarik.com/tags/django-rest-framework/</guid>
+      <guid>/tags/django-rest-framework/</guid>
       <description></description>
     </item>
     
     <item>
       <title>elasticsearch</title>
-      <link>http://myarik.com/tags/elasticsearch/</link>
+      <link>/tags/elasticsearch/</link>
       <pubDate>Mon, 01 May 2017 19:51:43 +0200</pubDate>
       
-      <guid>http://myarik.com/tags/elasticsearch/</guid>
+      <guid>/tags/elasticsearch/</guid>
       <description></description>
     </item>
     
     <item>
       <title>python</title>
-      <link>http://myarik.com/tags/python/</link>
+      <link>/tags/python/</link>
       <pubDate>Mon, 01 May 2017 19:51:43 +0200</pubDate>
       
-      <guid>http://myarik.com/tags/python/</guid>
+      <guid>/tags/python/</guid>
       <description></description>
     </item>
     
