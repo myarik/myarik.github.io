@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Talks on myarik</title>
-    <link>https://myarik.github.io/talks/</link>
+    <link>https://myarik.com/talks/</link>
     <description>Recent content in Talks on myarik</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 23 Feb 2018 19:44:18 +0200</lastBuildDate>
     
-	<atom:link href="https://myarik.github.io/talks/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://myarik.com/talks/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>The effective use of Django ORM</title>
-      <link>https://myarik.github.io/talks/django_orm_tips/</link>
+      <link>https://myarik.com/talks/django_orm_tips/</link>
       <pubDate>Fri, 23 Feb 2018 19:44:18 +0200</pubDate>
       
-      <guid>https://myarik.github.io/talks/django_orm_tips/</guid>
+      <guid>https://myarik.com/talks/django_orm_tips/</guid>
       <description>This talk describes how to use Django ORM effectively. Main topics: - Django ORM Mistakes
 - Performance Problems in the Django ORM - Database concurrency in Django the right way
  Slides: SlideShare</description>
@@ -24,10 +24,10 @@
     
     <item>
       <title>How to integrate Django REST Framework and Elasticsearch</title>
-      <link>https://myarik.github.io/talks/drf_and_elasticsearch/</link>
+      <link>https://myarik.com/talks/drf_and_elasticsearch/</link>
       <pubDate>Tue, 25 Apr 2017 19:29:50 +0200</pubDate>
       
-      <guid>https://myarik.github.io/talks/drf_and_elasticsearch/</guid>
+      <guid>https://myarik.com/talks/drf_and_elasticsearch/</guid>
       <description>This talk describes how to use the library django-rest-elasticsearch for integrating Elasticsearch with Django.
 Slides: SlideShare</description>
     </item>
