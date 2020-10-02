@@ -6,10 +6,21 @@
     <description>Recent content on myarik</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 06 Sep 2019 17:15:11 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2020 12:00:00 +0200</lastBuildDate>
     
 	<atom:link href="https://myarik.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Programming language for the cloud infrastructure</title>
+      <link>https://myarik.com/talks/language_for_cloud_infrastructure/</link>
+      <pubDate>Thu, 01 Oct 2020 12:00:00 +0200</pubDate>
+      
+      <guid>https://myarik.com/talks/language_for_cloud_infrastructure/</guid>
+      <description>The presentation contains sample codes written in Go, Python, Node, which demonstrates which of language best fits the cloud infrastructure.
+  Programming language for the cloud infrastructure  from Yaroslav Muravskyi 
+Sources: Github</description>
+    </item>
     
     <item>
       <title>About</title>

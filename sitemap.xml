@@ -3,18 +3,23 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://myarik.com/about/</loc>
-    <lastmod>2019-09-06T17:15:11+02:00</lastmod>
+    <loc>https://myarik.com/</loc>
+    <lastmod>2020-10-01T12:00:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://myarik.com/</loc>
-    <lastmod>2019-09-06T17:15:11+02:00</lastmod>
+    <loc>https://myarik.com/talks/language_for_cloud_infrastructure/</loc>
+    <lastmod>2020-10-01T12:00:00+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://myarik.com/talks/</loc>
-    <lastmod>2018-02-23T19:44:18+02:00</lastmod>
+    <lastmod>2020-10-01T12:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://myarik.com/about/</loc>
+    <lastmod>2019-09-06T17:15:11+02:00</lastmod>
   </url>
   
   <url>
